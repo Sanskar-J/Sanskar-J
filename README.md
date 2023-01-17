@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanskar-J
 - 👀 I’m interested in Software Engineering and Game Development
-- 🌱 I’m currently sharping my skills of Data Structures and Algorithms
+- 🌱 I’m currently sharpening my skills of Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on anything through JAVA Development or WebDev using MERN Stack
 - 📫 How to reach me :sanskar16.jaiswal@gmail.com
 
